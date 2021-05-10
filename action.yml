@@ -1,0 +1,9 @@
+name: 'Scaleway rclone command line'
+description: 'GitHub Action for rclone configured for Scaleway'
+author: Rémy Léone
+runs:
+  using: docker
+  image: Dockerfile
+branding:
+  icon: 'folder'
+  color: 'purple'
